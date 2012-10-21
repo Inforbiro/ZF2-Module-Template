@@ -1,10 +1,12 @@
 ZF2-Module-Template
 ===================
 
-Zend Framework 2 Module Template helps you to start with creating your own ZF2 modules
+Zend Framework 2 Module Template helps you to start with creating your own ZF2 modules.
 
 USAGE
 ===================
+
+- Extract this folder's content into /module/Template folder of your ZF2 application
 
 - Replace all occurance of word "Template" in files and folers names with name of your module, e.g. "Forum"
 
